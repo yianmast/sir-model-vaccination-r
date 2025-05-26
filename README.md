@@ -49,7 +49,4 @@ You are tasked with advising the Ministry of Agriculture on how a new neonatal v
 > Shared for **educational and portfolio purposes only**.  
 > **Do not submit it as your own work** on any learning platform.
 
----
 
-## 📬 Let’s Connect
-If you're interested in epidemiological modeling or R for public health, feel free to connect with me on [LinkedIn](https://www.linkedin.com).
